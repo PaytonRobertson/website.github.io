@@ -1,0 +1,30 @@
+body {
+    background-color: #cea3e3ff;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}  
+
+#one {
+    font-size: 3000px;
+    text-align: center;
+    position: relative;
+    background-color:#f569e5;
+    height: 100000px;
+    
+}
+
+
+
+
